@@ -61,3 +61,27 @@ Arrays  =>  object
 Function  =>  function
 Object  =>  object
 */
+
+//  STACK AND HEAP MEMORY
+
+// stack(primitive datatypes are stored in stack memory) copy of data will be given to ther variable
+// heap(non primitive datatypes are stored in heap memory) actual value will be given to another variable
+
+let myName = "aryan";
+let myname = myName;
+myname = "aryan tyagi";
+console.log(myName);
+console.log(myname);
+
+let user = {
+    name: "userone",
+    email: "userone@google.com",
+}
+console.log(user);
+
+let userTwo = user;
+userTwo.email = "aryan@gamil.com";
+userTwo.name = "Aryan Tyagi";
+
+console.log(user);
+console.log(userTwo);
