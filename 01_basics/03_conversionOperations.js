@@ -33,3 +33,27 @@ let num = 33;
 let numStr = String(num); //number converted into string value of 33 => 33
 console.log(numStr);
 console.log(typeof numStr);
+
+// ***********************Operations*********************************
+
+
+// console.log("************operations*************");
+// console.log(1+1);
+// console.log(1-1);
+// console.log(11*2);
+// console.log(4**4);
+// console.log(3/4);
+// console.log(6%7);
+
+
+
+// console.log("1" + 2);
+
+// console.log(1 + "2");
+
+// console.log("1" + 2 + 2);
+
+// console.log(1 + 3 + "2");
+
+// console.log();
+
