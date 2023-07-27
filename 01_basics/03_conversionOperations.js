@@ -51,7 +51,9 @@ console.log(typeof numStr);
 
 // console.log(1 + "2");
 
-// console.log("1" + 2 + 2);
+// console.log("1" + 2 + 2); // must use paranthesis () for this type of operations like in next line(56)
+
+//console.log("1" + (2 + 2)); // this will give correct answer
 
 // console.log(1 + 3 + "2");
 
