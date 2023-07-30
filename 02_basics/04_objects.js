@@ -82,3 +82,8 @@ console.log(instructor);
 
 // studied about json(javascript object notation) and destructuring of objects 
 // as well as about API api is called in form of json with objects and arrays
+
+
+
+
+
