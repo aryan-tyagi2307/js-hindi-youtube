@@ -86,3 +86,5 @@ console.log(instructor);
 
 
 // function
+
+// syntax of function
