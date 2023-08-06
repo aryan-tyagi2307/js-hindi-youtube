@@ -5,3 +5,6 @@ if (userEmail) {
 }else{
     console.log("dont have email");
 }
+
+// falsy values
+// false, 0, -0, null, undefined, NaN, "", BigInt 0n
