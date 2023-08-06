@@ -1,4 +1,4 @@
-const userEmail = "aryan@"
+const userEmail = []
 
 if (userEmail) {
     console.log("got email");
@@ -11,3 +11,7 @@ if (userEmail) {
 
 // truthy values
 // "0", 'false', " ", [], {}, function(){}
+
+if (userEmail.length === 0) {
+    console.log("empty array");
+}
